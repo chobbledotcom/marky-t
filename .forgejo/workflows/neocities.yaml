@@ -47,6 +47,6 @@ jobs:
       - name: Upload build as artifact
         uses: actions/upload-artifact@v3
         with:
-          name: site-build
+          name: built-site
           path: dist/
           retention-days: 7
