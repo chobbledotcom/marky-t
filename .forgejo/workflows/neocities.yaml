@@ -1,4 +1,6 @@
 on: [push]
+  paths:
+    - src/**
 env:
   NIX_PATH: nixpkgs=/nix/var/nix/profiles/per-user/root/channels/nixos
   NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY }}
