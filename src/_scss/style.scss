@@ -312,7 +312,8 @@ main hr {
   left: 0;
   overflow: hidden;
   z-index: -1;
-  transform: translateZ(0.1);
+  transform: translateZ(0); // Force GPU acceleration
+  pointer-events: none; // Prevent interaction with lights
 
   .disco-light {
     position: absolute;
@@ -320,6 +321,7 @@ main hr {
     filter: blur(100px); // Creates the soft, blurry effect
     opacity: 0;
     transition: all 3s ease-in-out;
+    will-change: transform, opacity, width, height;
 
     &::after {
       content: "";
