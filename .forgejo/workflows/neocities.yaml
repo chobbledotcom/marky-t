@@ -24,7 +24,7 @@ jobs:
           key: nix-${{ hashFiles('**/*.nix') }}
           restore-keys: |
             nix-
-      
+
       - name: Build
         id: build
         run: |
@@ -43,10 +43,3 @@ jobs:
           neocities_supporter: true
           preview_before_deploy: false
           dist_dir: dist
-      
-      - name: Upload build as artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: built-site
-          path: dist/
-          retention-days: 7
