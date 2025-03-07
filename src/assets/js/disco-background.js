@@ -5,6 +5,9 @@
       initDiscoLights();
     }
   };
+  
+  document.addEventListener("turbo:load", initDiscoLights);
+  document.addEventListener("turbo:render", initDiscoLights);
 
   function initDiscoLights() {
     const container = document.querySelector(".disco-container");
