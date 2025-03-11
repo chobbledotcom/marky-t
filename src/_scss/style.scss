@@ -75,7 +75,7 @@ body {
     align-items: center;
     word-break: keep-all;
     img {
-      max-width: 3rem;
+      max-width: 10rem;
     }
     span {
       text-decoration: none;
@@ -83,10 +83,10 @@ body {
     }
     @media (min-width: 950px) {
       img {
-        max-width: 4rem;
+        max-width: 15rem;
       }
       span {
-        font-size: 5rem;
+        font-size: 4rem;
       }
     }
   }
@@ -108,12 +108,10 @@ body {
     width: 100%;
     height: auto;
     display: block;
-    aspect-ratio: 9/6;
-    object-fit: contain;
   }
 
   h1 {
-    font-size: 2rem;
+    font-size: 1.6rem;
     color: var(--color-secondary);
     text-align: center;
     width: 100%;
