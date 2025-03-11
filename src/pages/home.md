@@ -21,7 +21,7 @@ From my beginnings at age 9 with a simple twin tape deck to hosting weekday show
 
 I'm not just someone who plays tracks - I'm a personality who understands how to read a room, mix seamlessly, and keep everyone dancing. With experience at iconic venues like Sugar Hut, Dukes, and Eclipse, I bring nightclub energy with wedding-perfect professionalism.
 
-![Photo of a wedding disco in full swing](/assets/photos/wedding-disco.jpg)
+![Photo of a wedding disco in full swing](/assets/photos/Hollie%20%26%20Brandon%20%28679%29.jpg)
 
 ---
 
