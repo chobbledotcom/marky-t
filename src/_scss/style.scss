@@ -108,6 +108,8 @@ body {
     width: 100%;
     height: auto;
     display: block;
+    aspect-ratio: 9/6;
+    object-fit: contain;
   }
 
   h1 {
@@ -858,4 +860,3 @@ blockquote {
   background-color: var(--color-scrollbar);
   border-radius: 10px;
 }
-
