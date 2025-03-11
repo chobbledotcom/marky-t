@@ -1,4 +1,23 @@
 <style type="text/css">
+  /* Fix for CLS with images */
+  .heading.has-image picture {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 0;
+    padding-top: 66.67%;
+    overflow: hidden;
+  }
+
+  .heading.has-image picture img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
   @font-face {
     font-family: "Asap Condensed";
     font-style: normal;
