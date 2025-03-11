@@ -13,7 +13,7 @@ The website for DJ Marky T
 - [DJ Services to edit](src/services)
     - [Birthday parties](/hosted-by-chobble/marky-t/_edit/main/src/services/birthday-parties.md)
     - [Corporate events](/hosted-by-chobble/marky-t/_edit/main/src/services/corporate-event-dj.md)
-    - [Club nights](/hosted-by-chobble/marky-t/_edit/main/src/services/club-night-dj.md)
+    - [Club nights](/hosted-by-chobble/marky-t/_edit/main/src/services/nightclub-dj.md)
 - [Upload photos](src/assets/photos)
 
 [djmarkyt.co.uk](https://djmarkyt.co.uk/)
