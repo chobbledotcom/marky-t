@@ -28,3 +28,7 @@ I'm not just a DJ who plays tracks - I'm a personality who knows how to read a c
 When I'm not behind the decks, I'm a husband to my amazing wife and daddy to my two beautiful daughters. I'm living my dream every day, creating memories across Essex and the UK!
 
 Want to make your special day truly unforgettable? Let's chat about how I can help craft the perfect soundtrack for your celebration!
+
+## Insurance
+
+I have £10m in public liability insurance - [click here to view my insurance certificate (PDF)](https://mdjn.uk/details/sh_pdf.php?id=77251)
