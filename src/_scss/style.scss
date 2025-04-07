@@ -104,10 +104,15 @@ body {
   position: relative;
 
   video,
+  iframe,
   img {
     width: 100%;
     height: auto;
     display: block;
+  }
+
+  video {
+    aspect-ratio: 16/9;
   }
 
   h1 {
