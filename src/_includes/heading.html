@@ -2,10 +2,17 @@
   id="heading"
   class="
     heading
-    {% if heading_video %} has-video {% endif%}
+    {% if heading_video or heading_iframe %} has-video {% endif%}
     {% if heading_image %} has-image {% endif%}
 ">
-  {% if heading_video %}
+  {% if heading_iframe %}
+    <iframe
+      src="{{ heading_iframe }}"
+      loading="lazy"
+      allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;"
+      allowfullscreen="true"
+    ></iframe>
+  {% elsif heading_video %}
     <video autoplay="1" muted="1" loop="1" playsinline>
       <source
         src="/assets/videos/{{ heading_video }}"
