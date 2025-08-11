@@ -5,8 +5,8 @@ heading_iframe: https://iframe.mediadelivery.net/embed/406677/62636aaf-f643-4556
 layout: home.html
 link_order: 0
 link_title: Home
-meta_description:
-meta_title: DJ Marky T
+meta_description: Professional wedding & event DJ in Essex with 20+ years experience. From weddings to corporate events, creating unforgettable musical experiences across London and Essex.
+meta_title: DJ Marky T - Wedding & Event DJ in Essex | Professional Party Entertainment
 permalink: "/"
 ---
 

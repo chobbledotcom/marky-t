@@ -3,8 +3,9 @@ heading_image: /assets/photos/mark-suit-4.jpg
 heading_text: About Marky T
 link_order: 1
 link_title: About
-meta_description:
-meta_title: About Marky T
+permalink: /about/
+meta_description: Meet Mark, aka Marky T - Essex wedding DJ with 20+ years experience. From nightclub residencies to Radio Essex presenter, discover my journey to becoming Essex's premier party DJ.
+meta_title: About Marky T | Professional Wedding DJ Essex | Radio Essex Presenter
 ---
 
 Hello there! I'm Mark, but you can call me Marky T - a passionate Wedding DJ, Wedding Host and Party DJ based in Essex and serving the whole UK and abroad!

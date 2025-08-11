@@ -2,8 +2,9 @@
 heading_image: /assets/photos/mark-nightclub.jpg
 heading_text: Nightclub DJ
 link_title: Club Nights
-meta_description:
-meta_title: Club & Event DJ - Marky T
+permalink: /services/nightclub-dj/
+meta_description: Nightclub DJ with 20+ years at Essex's legendary venues. Bring authentic club experience to your event with live mixing, beatmatching & professional sound.
+meta_title: Nightclub DJ Essex | Club Experience for Private Events | Marky T
 short_snippet: Keeping the dance floor packed all night long.
 snippet: I've spent over two decades mastering my craft in Essex's most legendary venues.
 ---
