@@ -2,8 +2,9 @@
 heading_image: /assets/photos/mark-corporate.jpg
 heading_text: Corporate Event DJ Services in Essex
 link_title: Corporate Events
-meta_description:
-meta_title: Corporate Event DJ
+permalink: /services/corporate-events/
+meta_description: Corporate event DJ services in Essex. Professional entertainment for galas, awards, product launches & staff parties. Reliable, experienced & tailored to your brand.
+meta_title: Corporate Event DJ Essex | Professional Business Entertainment | Marky T
 short_snippet: Professional entertainment for your company gathering.
 snippet: I understand that corporate events require a special touch.
 ---
