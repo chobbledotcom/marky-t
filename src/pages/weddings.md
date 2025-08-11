@@ -3,8 +3,9 @@ heading_image: /assets/photos/mark-wedding.jpg
 heading_text: Wedding DJ Services
 link_order: 2
 link_title: Weddings
-meta_description:
-meta_title: Wedding DJ
+permalink: /weddings/
+meta_description: Expert wedding DJ services in Essex. Full day coverage from ceremony to last dance. Professional mixing, hosting & planning for your perfect celebration. Book Marky T today.
+meta_title: Wedding DJ Essex | Professional Wedding Entertainment | Marky T
 short_snippet: Creating the perfect soundtrack for your special day.
 snippet: A dedicated professional who'll ensure your day flows perfectly from ceremony to last dance.
 ---
