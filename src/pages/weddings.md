@@ -1,5 +1,5 @@
 ---
-heading_image: mark-wedding.jpg
+heading_image: /assets/photos/mark-wedding.jpg
 heading_text: Wedding DJ Services
 link_order: 2
 link_title: Weddings

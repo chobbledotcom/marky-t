@@ -1,5 +1,5 @@
 ---
-heading_image: mark-corporate.jpg
+heading_image: /assets/photos/mark-corporate.jpg
 heading_text: Corporate Event DJ Services in Essex
 link_title: Corporate Events
 meta_description:

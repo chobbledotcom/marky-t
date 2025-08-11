@@ -1,6 +1,6 @@
 ---
 heading_text: Reviews / Testimonials
-heading_image: guestbook.jpg
+heading_image: /assets/photos/guestbook.jpg
 layout: testimonials.html
 link_order: 3
 link_title: Reviews

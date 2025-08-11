@@ -1,5 +1,5 @@
 ---
-heading_image: mark-popworld.jpg
+heading_image: /assets/photos/mark-popworld.jpg
 heading_text: Birthday Party DJ
 link_title: Birthday Parties
 meta_description: Professional birthday party DJ services in London & Essex. Book Marky T to create the perfect atmosphere for your celebration with personalised music and expert crowd reading.

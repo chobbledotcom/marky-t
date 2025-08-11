@@ -1,5 +1,5 @@
 ---
-heading_image: mark-nightclub.jpg
+heading_image: /assets/photos/mark-nightclub.jpg
 heading_text: Nightclub DJ
 link_title: Club Nights
 meta_description:

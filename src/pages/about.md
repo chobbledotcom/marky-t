@@ -1,5 +1,5 @@
 ---
-heading_image: mark-suit-4.jpg
+heading_image: /assets/photos/mark-suit-4.jpg
 heading_text: About Marky T
 link_order: 1
 link_title: About
