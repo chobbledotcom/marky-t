@@ -1,10 +1,8 @@
 const path = require("path");
 const { Image, eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+const { configureScss } = require("./src/_lib/scss");
 
 module.exports = async function (eleventyConfig) {
-	eleventyConfig.addPlugin(pluginRss);
-
 	eleventyConfig.addFilter("getNewestCollectionItemDate", (collection) => {
 		if (!collection || !collection.length) return new Date();
 		return new Date(
@@ -45,6 +43,9 @@ module.exports = async function (eleventyConfig) {
 			},
 		},
 	});
+
+	// Configure SCSS support
+	configureScss(eleventyConfig);
 
 	// Base configuration
 	return {
