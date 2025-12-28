@@ -3,15 +3,15 @@ heading_image: /assets/photos/mark-corporate.jpg
 heading_text: Corporate Event DJ Services in Essex
 link_title: Corporate Events
 permalink: /services/corporate-events/
-meta_description: Corporate event DJ services in Essex. Professional entertainment for galas, awards, product launches & staff parties. Reliable, experienced & tailored to your brand.
-meta_title: Corporate Event DJ Essex | Professional Business Entertainment | Marky T
-short_snippet: Professional entertainment for your company gathering.
-snippet: I understand that corporate events require a special touch.
+meta_description: Trusted by ITV, Cineworld & major corporations. Radio Essex presenter with 22+ years experience. £10m insurance. Professional corporate entertainment in Essex.
+meta_title: Corporate Event DJ Essex | Trusted by ITV & Cineworld | Marky T
+short_snippet: Trusted by ITV, Cineworld and major corporations.
+snippet: Corporate-compliance level professionalism with 22+ years experience and £10m insurance.
 ---
 
-Looking for a DJ who can strike the perfect tone for your corporate event in Essex? From subtle background music to energetic party sets, I deliver tailored entertainment solutions for businesses of all sizes.
+Looking for a DJ who meets corporate compliance requirements? My sister company Mega Inflatables has supplied entertainment for **Cineworld**, **ITV**, **Chiquito**, **Aberdeen Asset Management**, plus schools, councils, and charities across the UK.
 
-With over 20 years of experience at Essex venues ranging from high-end hotels to conference centres, I understand that corporate events require a special touch - professional service, reliable timing, and music that creates the right atmosphere without overwhelming your event's purpose.
+With 22 years of professional experience - including my current role as a **Radio Essex presenter** and **Resident DJ at Chelmsford City Racecourse** - I bring the level of professionalism that major organisations expect. From subtle background music to energetic party sets, I deliver tailored entertainment solutions for businesses of all sizes.
 
 ---
 
@@ -27,7 +27,7 @@ Make a lasting impression on clients and stakeholders with a professionally mana
 
 ### Staff Parties & Christmas Celebrations
 
-Reward your team with an evening of entertainment they'll actually enjoy. I specialise in reading the room to deliver music that gets everyone involved—from your interns to your CEO—creating a party atmosphere that helps colleagues unwind and connect.
+Reward your team with an evening of entertainment they'll enjoy. I specialise in reading the room to deliver music that gets everyone involved—from your interns to your CEO—creating a party atmosphere that helps colleagues unwind and connect.
 
 ### Corporate Retreats & Team Building
 
@@ -59,21 +59,24 @@ Having worked at many of Essex's premier corporate venues, I understand their sp
 
 ---
 
-## What Essex Businesses Say
+## Trusted by Major Organisations
 
-My corporate clients appreciate my professionalism, reliability and ability to create the right atmosphere for their events. From financial services firms to tech startups, I've helped Essex businesses create memorable events that impress clients and motivate teams.
+When ITV, Cineworld, and Aberdeen Asset Management need entertainment, they come to us. That level of corporate compliance and professionalism is what I bring to every business event - whether you're a FTSE 100 company or a local startup.
 
 ---
 
 ## Competitive Rates for Essex Businesses
 
-I offer transparent pricing with no hidden costs. Corporate packages can include:
+I offer transparent pricing with no hidden costs. Corporate packages include:
 
 - Professional sound system appropriate to your venue size
 - Lighting options to enhance your event space
 - Wireless microphone for announcements
 - Early setup and late finish options
 - Pre-event consultation and planning
+- **£10 million public liability insurance**
+- PAT-tested equipment
+- Full risk assessment documentation available
 
 ---
 
