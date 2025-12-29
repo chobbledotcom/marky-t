@@ -10,9 +10,9 @@ meta_title: DJ Marky T - Wedding & Event DJ in Essex | Radio Essex Presenter | A
 permalink: "/"
 ---
 
-## London & Essex's Premier Weddings & Events DJ
+## London & Essex Weddings & Events DJ
 
-Hello! I'm Mark, better known as Marky T - a professional DJ with over 22 years of experience creating unforgettable musical experiences across London and Essex.
+Hello! I'm Mark, better known as Marky T - a professional DJ with over 22 years of experience in London and Essex.
 
 You might recognise my voice from **Radio Essex**, where I present weekday shows reaching over 100,000 listeners. When I'm not on air, I'm the **Resident DJ at Chelmsford City Racecourse** and the voice behind Essex's largest public events, including the **Billericay Fireworks** spectacular - 15,000+ attendees strong.
 
@@ -50,7 +50,7 @@ This isn't a side hustle - it's been my full-time profession since 2002. Here's 
 
 ## Let's Create Memories
 
-Whether you're planning your dream wedding, a milestone birthday, or a corporate event that needs that special touch, I'm here to make it memorable.
+Planning a wedding, milestone birthday, or corporate event? Let's talk.
 
 I carry **£10 million public liability insurance** and all equipment is PAT tested - because this is my profession, not a hobby. Based in Essex, I cover London, Kent, Hertfordshire, and nationwide for larger events.
 

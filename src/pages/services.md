@@ -9,7 +9,7 @@ meta_description: Radio Essex presenter & Essex Wedding Award Finalist. Professi
 meta_title: DJ Services Essex | Radio Essex Presenter | Professional Event Entertainment
 css: services
 ---
-With 22 years of professional experience - from Essex's legendary nightclubs to presenting on Radio Essex - I bring genuine expertise to every event. Whether you're hosting 50 guests or 500, I've handled rooms of every size, including crowds of 15,000+ at Billericay Fireworks.
+With 22 years of professional experience - from Essex's legendary nightclubs to presenting on Radio Essex - I've handled rooms of every size, from 50 guests to crowds of 15,000+ at Billericay Fireworks.
 
 All bookings include £10 million public liability insurance and PAT-tested equipment. This is my full-time profession, not a weekend hobby.
 

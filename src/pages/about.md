@@ -50,7 +50,7 @@ I read crowds, mix live, and create atmospheres that keep everyone dancing. Twen
 
 When I'm not behind the decks, I'm a husband to my amazing wife and daddy to my two beautiful daughters. I'm living my dream every day, creating memories across Essex and the UK!
 
-Want to make your special day truly unforgettable? Let's chat about how I can help craft the perfect soundtrack for your celebration!
+Got an event coming up? [Get in touch](/contact/) and let's talk music.
 
 ## Insurance
 

@@ -19,11 +19,11 @@ With 22 years of professional experience - including my current role as a **Radi
 
 ### Award Ceremonies & Gala Dinners
 
-Create a sophisticated atmosphere with background music during dining that transitions seamlessly into an upbeat celebration. I'll work with your event timeline to ensure announcements, awards, and speeches are perfectly coordinated with appropriate musical interludes.
+Background music during dining that transitions into an upbeat celebration. I'll work with your event timeline to ensure announcements, awards, and speeches are coordinated with appropriate musical interludes.
 
 ### Product Launches & Client Events
 
-Make a lasting impression on clients and stakeholders with a professionally managed soundtrack that enhances your brand message. From ambient arrival music to energetic reveals, I'll help create memorable moments that reflect your company's image.
+Make an impression on clients and stakeholders with a professionally managed soundtrack that enhances your brand message. From ambient arrival music to energetic reveals, I'll help create moments that reflect your company's image.
 
 ### Staff Parties & Christmas Celebrations
 
@@ -43,25 +43,25 @@ Every business event has unique requirements. I'll work closely with your event 
 
 ### Technical Reliability
 
-With corporate events, timing is everything. I arrive early, test extensively, and ensure all equipment is functioning perfectly before your guests arrive.
+With corporate events, timing is everything. I arrive early, test extensively, and ensure all equipment is working before your guests arrive.
 
 ### Professional Presentation
 
 I maintain a smart appearance suitable for corporate settings and can adapt my setup to blend with your event décor or company branding.
 
-### Seamless Coordination
+### Coordination
 
 I'll work closely with your venue, caterers, and other suppliers in Essex to ensure smooth transitions between different parts of your event.
 
 ## Popular Essex Corporate Venues
 
-Having worked at many of Essex's premier corporate venues, I understand their specific requirements and can coordinate seamlessly with on-site teams. My experience spans venues across Chelmsford, Colchester, Brentwood, Southend and throughout the county.
+Having worked at many of Essex's top corporate venues, I understand their specific requirements and coordinate well with on-site teams. My experience spans venues across Chelmsford, Colchester, Brentwood, Southend and throughout the county.
 
 ---
 
 ## Trusted by Major Organisations
 
-When ITV, Cineworld, and Aberdeen Asset Management need entertainment, they come to us. That level of corporate compliance and professionalism is what I bring to every business event - whether you're a FTSE 100 company or a local startup.
+When ITV, Cineworld, and Aberdeen Asset Management need entertainment, they come to us. That level of corporate compliance and professionalism applies to every business event - FTSE 100 or local startup.
 
 ---
 

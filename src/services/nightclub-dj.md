@@ -29,7 +29,7 @@ These rooms taught me everything: reading a crowd, managing energy levels, handl
 
 ## The Club Experience, Anywhere
 
-Planning a corporate party, milestone birthday, or exclusive private event? I bring authentic club DJ experience to your venue. Live mixing, seamless transitions, and 22 years of knowing exactly how to build atmosphere through the night.
+Planning a corporate party, milestone birthday, or private event? I bring authentic club DJ experience to your venue - live mixing, smooth transitions, and 22 years of knowing how to build a room.
 
 ---
 
@@ -37,7 +37,7 @@ Planning a corporate party, milestone birthday, or exclusive private event? I br
 
 ### Live Mixing & Beatmatching
 
-Just like in the clubs, I mix tracks live, with no awkward stops or breaks between songs. This creates that authentic nightclub experience with seamless transitions that keep the energy flowing all night long.
+Just like in the clubs, I mix tracks live - no awkward stops or breaks between songs. The energy flows, the transitions are smooth, and the dance floor stays full.
 
 ### Reading The Room
 
@@ -45,7 +45,7 @@ After years in Essex's most demanding clubs, I've developed an instinct for exac
 
 ### Genre Versatility
 
-From commercial chart hits to dance classics, RnB, hip hop, house, garage, and disco, I can adapt my sets to suit your crowd. My experience spans countless musical styles, allowing me to create the perfect soundtrack for your specific event.
+Commercial chart hits, dance classics, RnB, hip hop, house, garage, disco - I adapt my sets to suit your crowd and what gets them moving.
 
 ### Professional Sound & Lighting
 
@@ -53,7 +53,7 @@ I bring club-quality sound systems and lighting to transform any space into an a
 
 ---
 
-## Perfect For
+## Works Well For
 
 ### Corporate Parties
 

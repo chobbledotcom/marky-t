@@ -9,7 +9,7 @@ short_snippet: Radio Essex presenter with 22+ years experience.
 snippet: From intimate gatherings to milestone celebrations, I've entertained crowds from 50 to 15,000+.
 ---
 
-Your birthday deserves to be celebrated in style! As a **Radio Essex presenter** and professional DJ since 2002, I know exactly how to transform any venue into the perfect party space.
+As a **Radio Essex presenter** and professional DJ since 2002, I know how to get a party going - and keep it going.
 
 When you've kept 15,000 people entertained at Billericay Fireworks, your 40th birthday party is something I've absolutely got covered.
 
@@ -37,7 +37,7 @@ After 22 years in Essex's most demanding clubs, I've developed an instinct for e
 
 - Pre-event consultation to discuss your music preferences
 - Professional sound system suited to your venue size
-- Dynamic lighting to create the perfect party atmosphere
+- Dynamic lighting to set the party atmosphere
 - Wireless microphone for announcements and speeches
 - Early setup (completed before your guests arrive)
 - Backup equipment for peace of mind
@@ -56,4 +56,4 @@ After 22 years in Essex's most demanding clubs, I've developed an instinct for e
 
 ## Book Your Birthday Party DJ Today
 
-Whether it's a milestone birthday, a surprise party, or simply a great excuse to celebrate with friends and family, I'll provide the soundtrack that makes your celebration truly special. [Contact me to start planning!](/contact/)
+Milestone birthday? Surprise party? [Get in touch](/contact/) and let's plan something good.
