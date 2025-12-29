@@ -5,22 +5,28 @@ heading_iframe: https://iframe.mediadelivery.net/embed/406677/62636aaf-f643-4556
 layout: home.html
 link_order: 0
 link_title: Home
-meta_description: Professional wedding & event DJ in Essex with 20+ years experience. From weddings to corporate events, creating unforgettable musical experiences across London and Essex.
-meta_title: DJ Marky T - Wedding & Event DJ in Essex | Professional Party Entertainment
+meta_description: Essex Wedding Award Finalist & Radio Essex presenter with 22+ years experience. Resident DJ at Chelmsford City Racecourse. From weddings to 15,000-person events.
+meta_title: DJ Marky T - Wedding & Event DJ in Essex | Radio Essex Presenter | Award Finalist
 permalink: "/"
 ---
 
-## London & Essex's Premier Weddings & Events DJ
+## London & Essex Weddings & Events DJ
 
-Hello! I'm Mark, better known as Marky T - a professional DJ with over 20 years of experience creating unforgettable musical experiences across London and Essex.
+Hello! I'm Mark, better known as Marky T - a professional DJ with over 22 years of experience in London and Essex.
 
-From my beginnings at age 9 with a simple twin tape deck to hosting weekday shows on Radio Essex, my passion for music and entertainment has taken me to the finest venues and most special celebrations.
+You might recognise my voice from **Radio Essex**, where I present weekday shows reaching over 100,000 listeners. When I'm not on air, I'm the **Resident DJ at Chelmsford City Racecourse** and the voice behind Essex's largest public events, including the **Billericay Fireworks** spectacular - 15,000+ attendees strong.
 
 ---
 
 ## What Makes Me Different
 
-I'm not just someone who plays tracks - I'm a personality who understands how to read a room, mix seamlessly, and keep everyone dancing. With experience at iconic venues like Sugar Hut, Dukes, and Eclipse, I bring nightclub energy with wedding-perfect professionalism.
+This isn't a side hustle - it's been my full-time profession since 2002. Here's what that means for your event:
+
+- **Essex Wedding Award Finalist 2020** - Industry-recognised, not self-proclaimed
+- **Radio Essex Presenter** - Microphone confidence and crowd engagement at the highest level
+- **Capital FM 'Radio Stars' Finalist** - Came second in a national competition
+- **Chelmsford City Racecourse Resident** - Trusted by one of Essex's most prestigious venues
+- **Nightclub Pedigree** - Trained at Sugar Hut, Talk, Dukes, Eclipse, and more of Essex's most demanding rooms
 
 ![Photo of a wedding disco in full swing](/assets/photos/hollie-683.jpg)
 
@@ -44,7 +50,9 @@ I'm not just someone who plays tracks - I'm a personality who understands how to
 
 ## Let's Create Memories
 
-Whether you're planning your dream wedding, a milestone birthday, or a corporate event that needs that special touch, I'm here to make it memorable.
+Planning a wedding, milestone birthday, or corporate event? Let's talk.
+
+I carry **£10 million public liability insurance** and all equipment is PAT tested - because this is my profession, not a hobby. Based in Essex, I cover London, Kent, Hertfordshire, and nationwide for larger events.
 
 **[Contact me now](/contact/) for a complimentary meet and greet to discuss your entertainment needs!**
 

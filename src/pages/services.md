@@ -5,8 +5,12 @@ layout: services.html
 link_order: 3
 link_title: DJ
 permalink: /services/
-meta_description: Professional DJ services for all occasions - weddings, birthdays, corporate events & nightclubs. Essex's most versatile DJ with 20+ years experience.
-meta_title: DJ Services Essex | Wedding, Corporate & Party Entertainment | Marky T
+meta_description: Radio Essex presenter & Essex Wedding Award Finalist. Professional DJ for birthdays, corporate events & private parties. 22+ years experience. £10m insurance.
+meta_title: DJ Services Essex | Radio Essex Presenter | Professional Event Entertainment
 css: services
 ---
-As a versatile DJ I can get a party going at any occasion, but aside from weddings I'm often hired for:
+With 22 years of professional experience - from Essex's legendary nightclubs to presenting on Radio Essex - I've handled rooms of every size, from 50 guests to crowds of 15,000+ at Billericay Fireworks.
+
+All bookings include £10 million public liability insurance and PAT-tested equipment. This is my full-time profession, not a weekend hobby.
+
+Aside from [weddings](/weddings/), I'm regularly hired for:
