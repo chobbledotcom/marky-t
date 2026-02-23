@@ -25,7 +25,7 @@ Every transition intentional.
 Every memory set to the perfect soundtrack.
 
 
-As a **Radio Essex presenter** reaching 100,000+ listeners weekly and the **Resident DJ at Chelmsford City Racecourse**, I bring a level of professionalism that sets me apart from hobbyist DJs. With over 22 years of full-time experience - from iconic Essex nightclubs like Sugar Hut to elegant manor houses across the UK - I know how to fill dance floors and keep them full.
+As a **Radio presenter** and the **Resident DJ at Chelmsford City Racecourse**, I bring a level of professionalism that sets me apart from hobbyist DJs. With over 22 years of full-time experience - from iconic Essex nightclubs like Sugar Hut to elegant manor houses across the UK - I know how to fill dance floors and keep them full.
 
 Your wedding deserves someone who'll ensure your day flows smoothly from ceremony to last dance - not someone who bought speakers off eBay last month.
 
@@ -42,7 +42,7 @@ Your wedding deserves someone who'll ensure your day flows smoothly from ceremon
 When you book me, you're getting:
 
 - **Essex Wedding Award Finalist** – Industry-recognised quality, not just self-proclaimed
-- **A Radio Presenter** – Microphone confidence from presenting to 100,000+ listeners on Radio Essex
+- **A Radio Presenter** – Microphone confidence from presenting.
 - **A Mixing Specialist** – No awkward gaps between songs, I mix live for nightclub-quality flow
 - **A Dance Floor Expert** – With 22+ years in Essex's top nightclubs, I know exactly how to read a room and keep guests dancing
 - **A Planning Partner** – From our first chat to your wedding day, I'll help create a musical journey that reflects you both
