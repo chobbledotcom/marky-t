@@ -1,59 +1,63 @@
 ---
-heading_image: /assets/photos/mark-popworld.jpg
 heading_text: Birthday Party DJ
+heading_image: /assets/photos/mark-popworld.jpg
 link_title: Birthday Parties
-permalink: /services/birthday-parties/
-meta_description: Radio Essex presenter & nightclub DJ with 22+ years experience. From intimate 30ths to 500-guest 50ths, I keep all ages dancing. £10m insurance. Free consultation.
-meta_title: Birthday Party DJ Essex | Radio Essex Presenter | DJ Marky T
+meta_description: Radio Essex presenter & nightclub DJ with 22+ years
+  experience. From intimate 30ths to 500-guest 50ths, I keep all ages dancing.
+  £10m insurance. Free consultation.
+meta_title: Birthday Party DJ Essex | Radio Presenter | DJ Marky T
+snippet: From intimate gatherings to milestone celebrations, I've entertained
+  crowds from 50 to 15,000+.
 short_snippet: Radio Essex presenter with 22+ years experience.
-snippet: From intimate gatherings to milestone celebrations, I've entertained crowds from 50 to 15,000+.
 ---
+Birthday Party DJ – London & Essex
+As a Radio presenter and full-time professional DJ since 2002, I know exactly how to start a party — and more importantly, how to keep it there.
+If you can hold 15,000 people at Billericay Fireworks, a 40th, 50th or surprise birthday?
+That’s right in my wheelhouse.
 
-As a **Radio Essex presenter** and professional DJ since 2002, I know how to get a party going - and keep it going.
+Why Book Me for Your Birthday?
+Proper Experience. Not a Side Gig.
 
-When you've kept 15,000 people entertained at Billericay Fireworks, your 40th birthday party is something I've absolutely got covered.
+I’ve DJ’d hundreds of birthday celebrations — from stylish private dinners to full-on milestone blowouts.
 
----
+One thing my reviews say again and again?
+I keep everyone dancing. From the teenagers to the aunties to your mates reliving their clubbing days.
 
-## Why Choose Me for Your Birthday Party?
+My background in iconic Essex nightclubs like Sugar Hut, Talk, Dukes, Eclipse and Mayhem means I bring real club energy — tight mixing, big sound, and no awkward lulls.
 
-### Experience That Matters
+As Resident DJ at Chelmsford City Racecourse, I’m trusted with high-profile events regularly. Your birthday is treated with the same professionalism.
+Music That’s Fresh — And Timeless
 
-From intimate gatherings to milestone celebrations, I've DJ'd hundreds of birthday parties across all ages - my reviews regularly praise how I keep everyone from 15 to 70 dancing at the same event.
+Being on the radio  means my music library is constantly updated. I’m adding new tracks weekly — often before they properly blow up.
+But I also know exactly when to drop the throwbacks. The hands-in-the-air ones. The sing-at-the-top-of-your-lungs ones.
+No tired playlists.
 
-My experience at iconic Essex nightclubs - Sugar Hut, Talk, Dukes, Eclipse, Mayhem, and more - means I bring nightclub-quality sound and professional expertise to your celebration. Plus, as the **Resident DJ at Chelmsford City Racecourse**, I handle high-profile events regularly.
+No “same set every weekend.”
+Everything is mixed live, tailored to your crowd.
+Reading the Room Is Everything
+After 22+ years in Essex’s most demanding clubs, reading a dancefloor is second nature.
+I watch.
+I adjust.
+I build momentum.
+This isn’t shuffle mode.
 
-### Fresh Music, Every Time
+It’s live mixing, real-time decisions, and knowing exactly what to play next to keep that floor full.
 
-As a Radio Essex presenter, I update my music library weekly with the latest tracks - often before they hit the mainstream. No tired playlists from 2015 here. But I also know every floor-filling classic that gets all generations moving.
+What’s Included
+✔ Pre-event chat to get your music exactly right
+✔ Professional sound system tailored to your venue
+✔ Dynamic lighting to lift the atmosphere
+✔ Wireless mic for speeches & announcements
+✔ Early setup before guests arrive
+✔ Full backup equipment (peace of mind always)
+✔ £10 million public liability insurance & PAT-tested kit
+✔ Seamless live mixing all night
 
-### Reading the Room
 
-After 22 years in Essex's most demanding clubs, I've developed an instinct for exactly what to play next. I watch the crowd, feel the vibe, and constantly adjust to keep the dance floor packed and the energy high. This isn't a playlist on shuffle - it's live mixing and real-time crowd reading.
-
----
-
-## What's Included in My Birthday Package
-
-- Pre-event consultation to discuss your music preferences
-- Professional sound system suited to your venue size
-- Dynamic lighting to set the party atmosphere
-- Wireless microphone for announcements and speeches
-- Early setup (completed before your guests arrive)
-- Backup equipment for peace of mind
-- **£10 million public liability insurance** and PAT-tested equipment
-- Live mixing throughout (no awkward gaps between songs)
-
----
-
-## What My Birthday Clients Say
-
-> "Mark DJ'd for my 40th at the weekend and he was absolutely brilliant! He played all the tunes I'd requested in advance and kept the dance floor packed! Everyone is still talking about how fab the music was!" **Claire**
-
-> "We booked Mark for my husband's surprise 40th. Absolutely brilliant, would highly recommend." **Sophie**
-
----
-
-## Book Your Birthday Party DJ Today
-
-Milestone birthday? Surprise party? [Get in touch](/contact/) and let's plan something good.
+What Clients Say
+“Mark DJ’d my 40th and was absolutely brilliant. He played everything I requested and kept the dancefloor packed all night!” – Claire
+“Booked for my husband’s surprise 40th. Absolutely brilliant. Highly recommend.” – Sophie
+Ready to Celebrate Properly?
+Milestone birthday? Surprise party? Big one coming up?
+Let’s make it one people talk about long after the last track drops.
+Get in touch and let’s plan it.
