@@ -1,20 +1,29 @@
 ---
-heading_image: /assets/photos/mark-wedding.jpg
 heading_text: Wedding DJ Services
+heading_image: /assets/photos/mark-wedding.jpg
 link_order: 2
 link_title: Weddings
-permalink: /weddings/
-meta_description: Essex Wedding Award Finalist 2020 for Wedding DJ of the Year. Radio Essex presenter with 22+ years experience. Premium white wedding setups. Free consultation.
+meta_description: Essex Wedding Award Finalist 2020 for Wedding DJ of the Year.
+  Radio Essex presenter with 22+ years experience. Premium white wedding setups.
+  Free consultation.
 meta_title: Wedding DJ Essex | Essex Wedding Award Finalist 2020 | Marky T
-short_snippet: Essex Wedding Award Finalist 2020 for Wedding DJ of the Year.
-snippet: Industry-recognised wedding DJ with Radio Essex credentials and 22+ years professional experience.
+permalink: /weddings/
 ---
-
 > "I highly recommend this fine man."
 
-## Essex Wedding Award Finalist 2020
+## Essex Wedding Award Finalist.
 
-Planning your wedding? I'm Mark (aka Marky T) - **Essex Wedding Award Finalist 2020 for Wedding DJ of the Year**. This isn't self-proclaimed excellence; it's industry-recognised quality.
+Planning your wedding? I'm Mark (aka Marky T) - **Essex Wedding Award Finalist for Wedding DJ of the Year**. This isn't self-proclaimed excellence; it's industry-recognised quality.
+
+With over two decades of professional experience, I’ve developed a natural instinct for reading a room — understanding exactly what your guests need to hear, and precisely when to play it.
+Whether it’s that first track that fills the dancefloor in seconds, or a timeless classic that has every generation — from your oldest relatives to your closest friends — completely immersed in the moment, we’ll curate a soundtrack that reflects you as a couple while keeping the energy effortless and inclusive.
+
+As your all-day Wedding MC, I offer more than music.
+With my background as a radio presenter and live host, I bring calm authority, clarity and confidence to every announcement. Behind the scenes, I act as a steady, experienced pair of hands — coordinating with your venue and suppliers, guiding guests smoothly through the day, managing microphones for speeches (and offering reassurance where needed), gathering everyone for those important moments, and ensuring each part of your celebration flows seamlessly.
+Every moment considered.
+Every transition intentional.
+Every memory set to the perfect soundtrack.
+
 
 As a **Radio Essex presenter** reaching 100,000+ listeners weekly and the **Resident DJ at Chelmsford City Racecourse**, I bring a level of professionalism that sets me apart from hobbyist DJs. With over 22 years of full-time experience - from iconic Essex nightclubs like Sugar Hut to elegant manor houses across the UK - I know how to fill dance floors and keep them full.
 
@@ -130,7 +139,7 @@ All packages include my professional mixing service, ensuring no awkward gaps be
 
 ## Essex Wedding Venues
 
-I'm recommended at and have established relationships with many of Essex's most beautiful wedding venues, including **Apton Hall** and **The Rayleigh Club**. Having performed at countless venues across the county - from barns and country houses to hotels and exclusive venues - I understand their specific requirements and limitations.
+I'm recommended at and have established relationships with many of Essex's most beautiful wedding venues, including **Apton Hall** and **The Boundary**. Having performed at countless venues across the county - from barns and country houses to hotels and exclusive venues - I understand their specific requirements and limitations.
 
 This local knowledge ensures smooth coordination with venue staff. Many venue coordinators know me by name.
 
