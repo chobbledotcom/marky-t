@@ -5,14 +5,46 @@ heading_iframe: https://iframe.mediadelivery.net/embed/406677/62636aaf-f643-4556
 layout: home.html
 link_order: 0
 link_title: Home
-meta_description: Essex Wedding Award Finalist & Radio Essex presenter with 22+ years experience. Resident DJ at Chelmsford City Racecourse. From weddings to 15,000-person events.
-meta_title: DJ Marky T - Wedding & Event DJ in Essex | Radio Essex Presenter | Award Finalist
-permalink: "/"
+meta_description: Essex Wedding Award Finalist & Radio Essex presenter with 22+
+  years experience. Resident DJ at Chelmsford City Racecourse. From weddings to
+  15,000-person events.
+meta_title: DJ Marky T - Wedding & Event DJ in Essex | Radio Essex Presenter |
+  Award Finalist
+permalink: /
 ---
-
 ## London & Essex Weddings & Events DJ
 
 Hello! I'm Mark, better known as Marky T - a professional DJ with over 22 years of experience in London and Essex.
+
+More Than Just a Wedding DJ
+My foundation was built in some of Essex’s most respected nightclubs. Those environments demand precision, timing, confidence and the ability to move a crowd instantly.
+
+That experience shaped me into more than a DJ.
+
+I am a presenter.
+A host.
+A performer who understands energy.
+
+With over 22 years behind the decks, I know how to create those hands-in-the-air moments — the ones where your closest friends and family are completely immersed, singing at the top of their lungs, and the atmosphere feels electric.
+
+That isn’t luck.
+It’s experience.
+It’s instinct.
+
+It’s knowing exactly what to play, and when.
+The Balance of Club Energy & Wedding Elegance
+
+I continue to headline festivals and high-profile events across Essex, while delivering refined, high-end weddings throughout London and the South East.
+The difference?
+
+I bring nightclub-level energy with wedding-day sophistication.
+
+No cheese.
+No awkward microphone moments.
+No playing “just another playlist.”
+Just a packed dancefloor.
+An unforgettable atmosphere.
+And a celebration that feels as incredible as it looks.
 
 You might recognise my voice from **Radio Essex**, where I present weekday shows reaching over 100,000 listeners. When I'm not on air, I'm the **Resident DJ at Chelmsford City Racecourse** and the voice behind Essex's largest public events, including the **Billericay Fireworks** spectacular - 15,000+ attendees strong.
 
