@@ -44,9 +44,14 @@ When you book me, you're getting:
 - **Essex Wedding Award Finalist** – Industry-recognised quality, not just self-proclaimed
 - **A Radio Presenter** – Microphone confidence from presenting.
 - **A Mixing Specialist** – No awkward gaps between songs, I mix live for nightclub-quality flow
-- **A Dance Floor Expert** – With 22+ years in Essex's top nightclubs, I know exactly how to read a room and keep guests dancing
+- **A Dance Floor Expert** – With 24+ years in Essex's top nightclubs, I know exactly how to read a room and keep guests dancing
 - **A Planning Partner** – From our first chat to your wedding day, I'll help create a musical journey that reflects you both
 - **Fresh Music** – As a radio presenter, I update my library weekly with tracks before they hit the mainstream
+
+
+Your Night, Your Way
+This is your day — and my goal is to make sure your wedding reception feels unforgettable. From the moment you walk in as newlyweds to the final song of the night, I’ll make sure the energy, music, and atmosphere are exactly what you envisioned. Whether you want a non-stop party, a laid-back luxury vibe, or something in between, I have the experience, skill, and passion to deliver it.
+So, if you're looking for a luxury wedding DJ who knows how to create a dancefloor that people will talk about for years to come — let's make it happen.
 
 ---
 
