@@ -9,30 +9,6 @@ meta_description: Essex Wedding Award Finalist & Radio Essex presenter. 24+
 meta_title: About Marky T | Essex Wedding Award Finalist | Radio Essex Presenter
 permalink: /about/
 ---
-Welcome to DJ Marky T – Premier Wedding and Luxury Event DJ Services
-Professional DJ since 2002 Based in Essex, I specialize in delivering high-energy, sophisticated entertainment for weddings, corporate events, and exclusive private gatherings across the UK and beyond. Our luxury DJ experiences go beyond music—we create immersive atmospheres, unforgettable moments, and a party energy that keeps guests engaged from start to finish.
-
-What makes me different? I don’t just play tracks; I curate an experience. With expert hosting, seamless mixing, and a keen eye for the perfect vibe, I ensure every event is elevated to an extraordinary level. Whether it's a glamorous wedding, a high-profile corporate affair, or a bespoke private party, I bring passion, professionalism, and an unrivalled luxury touch.
-
-The Luxury DJ Experience
-Every event is unique, and we take a personalized approach to crafting the perfect soundtrack and ambiance.
-
-•	Weddings – Tailored playlists, elegant production, and an electrifying celebration to remember.
-
-•	Corporate Events – Professional, high-end entertainment designed to impress and inspire.
-
-•	Private Celebrations – Bespoke music experiences for discerning clients seeking something truly special.
-
-Trusted by Elite Clients
-Renowned for excellence, I have provided entertainment at some of the most exclusive venues and events. Our clients trust us to deliver a seamless, stylish performance that enhances their occasion.
-“[Marky was the DJ at our prom and the students say he was on fire, and the best they have ever seen!]”
-
-Let’s Make Your Event Unforgettable
-From the first consultation to the final song, we are dedicated to delivering a premium DJ experience tailored to your vision. Let’s craft something exceptional together.
-[Book a Consultation]
-
-
-
 ## My Journey
 
 My love affair with music began when I was just 9 years old, equipped with my first set of disco lights and a twin tape deck with speakers. I spent as many weekends as possible DJing for family and friends, developing my skills through word-of-mouth recommendations.
