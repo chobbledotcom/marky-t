@@ -14,7 +14,16 @@ permalink: /
 ---
 ## London & Essex Weddings & Events DJ
 
-Hello! I'm Mark, better known as Marky T - a professional DJ with over 22 years of experience in London and Essex.
+Welcome to DJ Marky T – Premier Wedding and Luxury Event DJ Services
+Professional DJ since 2002 Based in Essex, I specialize in delivering high-energy, sophisticated entertainment for weddings, corporate events, and exclusive private gatherings across the UK and beyond. Our luxury DJ experiences go beyond music—we create immersive atmospheres, unforgettable moments, and a party energy that keeps guests engaged from start to finish.
+
+What makes me different? I don’t just play tracks; I curate an experience. With expert hosting, seamless mixing, and a keen eye for the perfect vibe, I ensure every event is elevated to an extraordinary level. Whether it's a glamorous wedding, a high-profile corporate affair, or a bespoke private party, I bring passion, professionalism, and an unrivalled luxury touch.
+
+The Luxury DJ Experience
+Every event is unique, and we take a personalized approach to crafting the perfect soundtrack and ambiance.
+•	Weddings – Tailored playlists, elegant production, and an electrifying celebration to remember.
+•	Corporate Events – Professional, high-end entertainment designed to impress and inspire.
+•	Private Celebrations – Bespoke music experiences for discerning clients seeking something truly special.
 
 More Than Just a Wedding DJ
 My foundation was built in some of Essex’s most respected nightclubs. Those environments demand precision, timing, confidence and the ability to move a crowd instantly.
@@ -25,7 +34,7 @@ I am a presenter.
 A host.
 A performer who understands energy.
 
-With over 22 years behind the decks, I know how to create those hands-in-the-air moments — the ones where your closest friends and family are completely immersed, singing at the top of their lungs, and the atmosphere feels electric.
+With over 24 years behind the decks, I know how to create those hands-in-the-air moments — the ones where your closest friends and family are completely immersed, singing at the top of their lungs, and the atmosphere feels electric.
 
 That isn’t luck.
 It’s experience.
