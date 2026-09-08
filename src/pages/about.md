@@ -1,14 +1,37 @@
 ---
-heading_image: /assets/photos/mark-suit-4.jpg
 heading_text: About Marky T
+heading_image: /assets/photos/mark-suit-4.jpg
 link_order: 1
 link_title: About
-permalink: /about/
-meta_description: Essex Wedding Award Finalist 2020 & Radio Essex presenter. 22+ years professional experience from Sugar Hut to Chelmsford Racecourse. Capital FM Radio Stars finalist.
+meta_description: Essex Wedding Award Finalist & Radio Essex presenter. 24+
+  years professional experience from Sugar Hut to Chelmsford Racecourse. Capital
+  FM Radio Stars finalist.
 meta_title: About Marky T | Essex Wedding Award Finalist | Radio Essex Presenter
+permalink: /about/
 ---
+Welcome to DJ Marky T – Premier Wedding and Luxury Event DJ Services
+Professional DJ since 2002 Based in Essex, I specialize in delivering high-energy, sophisticated entertainment for weddings, corporate events, and exclusive private gatherings across the UK and beyond. Our luxury DJ experiences go beyond music—we create immersive atmospheres, unforgettable moments, and a party energy that keeps guests engaged from start to finish.
 
-Hello there! I'm Mark, but you can call me Marky T - **Essex Wedding Award Finalist 2020** for Wedding DJ of the Year, Radio Essex presenter, and full-time professional DJ since 2002.
+What makes me different? I don’t just play tracks; I curate an experience. With expert hosting, seamless mixing, and a keen eye for the perfect vibe, I ensure every event is elevated to an extraordinary level. Whether it's a glamorous wedding, a high-profile corporate affair, or a bespoke private party, I bring passion, professionalism, and an unrivalled luxury touch.
+
+The Luxury DJ Experience
+Every event is unique, and we take a personalized approach to crafting the perfect soundtrack and ambiance.
+
+•	Weddings – Tailored playlists, elegant production, and an electrifying celebration to remember.
+
+•	Corporate Events – Professional, high-end entertainment designed to impress and inspire.
+
+•	Private Celebrations – Bespoke music experiences for discerning clients seeking something truly special.
+
+Trusted by Elite Clients
+Renowned for excellence, I have provided entertainment at some of the most exclusive venues and events. Our clients trust us to deliver a seamless, stylish performance that enhances their occasion.
+“[Marky was the DJ at our prom and the students say he was on fire, and the best they have ever seen!]”
+
+Let’s Make Your Event Unforgettable
+From the first consultation to the final song, we are dedicated to delivering a premium DJ experience tailored to your vision. Let’s craft something exceptional together.
+[Book a Consultation]
+
+
 
 ## My Journey
 
@@ -37,7 +60,7 @@ Beyond private bookings, I'm trusted to host Essex's biggest public events:
 
 - **Resident DJ at Chelmsford City Racecourse** - Their official DJ for Fireworks Spectaculars, Christmas parties, and major events
 - **Billericay Fireworks** - 15,000+ attendees annually, now in its 54th year, the biggest fireworks event in Essex
-- **March Farm** events and community festivals
+- **Marsh Farm** events and community festivals
 - Regular performances on stage with the Radio Essex team
 
 When your wedding reception has 150 guests, know that I've kept 15,000 people entertained. I've got this.
@@ -54,4 +77,4 @@ Got an event coming up? [Get in touch](/contact/) and let's talk music.
 
 ## Insurance
 
-I have £10m in public liability insurance - [click here to view my insurance certificate (PDF)](https://mdjn.uk/details/sh_pdf.php?id=77251)
+I have £5m in public liability insurance - [click here to view my insurance certificate (PDF)](https://mdjn.uk/details/sh_pdf.php?id=77251)
