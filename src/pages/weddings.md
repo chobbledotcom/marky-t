@@ -111,7 +111,7 @@ Everything from ceremony music to evening party, including:
 - Face-to-face venue meeting
 - Online planning system
 - Musical coverage from ceremony until midnight
-- £10 million public liability insurance
+- £5 million public liability insurance
 
 ### Evening Reception
 
@@ -122,7 +122,7 @@ Perfect if you just need evening entertainment:
 - Online planning system
 - Coverage from wedding breakfast until midnight
 - Face-to-face venue meeting
-- £10 million public liability insurance
+- £5 million public liability insurance
 
 ### Premium Setup Options
 
@@ -139,7 +139,7 @@ All packages include my professional mixing service, ensuring no awkward gaps be
 
 ## Essex Wedding Venues
 
-I'm recommended at and have established relationships with many of Essex's most beautiful wedding venues, including **Apton Hall** and **The Boundary**. Having performed at countless venues across the county - from barns and country houses to hotels and exclusive venues - I understand their specific requirements and limitations.
+I'm recommended at and have established relationships with many of Essex's most beautiful wedding venues, including **Apton Hall** **Chelmsford City Racecourse** and **The Boundary**. Having performed at countless venues across the county - from barns and country houses to hotels and exclusive venues - I understand their specific requirements and limitations.
 
 This local knowledge ensures smooth coordination with venue staff. Many venue coordinators know me by name.
 
