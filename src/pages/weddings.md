@@ -90,7 +90,7 @@ I'll arrive early for a discreet setup, then be on hand throughout the day to co
 
 ## The Secret to a Full Dance Floor
 
-After 22 years DJing in Essex's most demanding venues - from Sugar Hut to Chelmsford City Racecourse - I know how to read a room and what to play next. I mix tracks live (just like in a nightclub), so there are no awkward stops or energy dips.
+After 24 years DJing in Essex's most demanding venues - from Sugar Hut to Chelmsford City Racecourse - I know how to read a room and what to play next. I mix tracks live (just like in a nightclub), so there are no awkward stops or energy dips.
 
 This approach means once the party starts, the energy never drops—I'll build the atmosphere through the night, playing the right tracks at the right time to keep your dance floor packed until the final song.
 
