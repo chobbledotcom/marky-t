@@ -1,14 +1,15 @@
 ---
-heading_image: /assets/photos/mark-corporate.jpg
 heading_text: Corporate Event DJ Services in Essex
+heading_image: /assets/photos/mark-corporate.jpg
 link_title: Corporate Events
-permalink: /services/corporate-events/
-meta_description: Trusted by ITV, Cineworld & major corporations. Radio Essex presenter with 22+ years experience. £10m insurance. Professional corporate entertainment in Essex.
+meta_description: Trusted by ITV, Cineworld & major corporations. Radio Essex
+  presenter with 22+ years experience. £10m insurance. Professional corporate
+  entertainment in Essex.
 meta_title: Corporate Event DJ Essex | Trusted by ITV & Cineworld | Marky T
+snippet: Corporate-compliance level professionalism with 22+ years experience
+  and £10m insurance.
 short_snippet: Trusted by ITV, Cineworld and major corporations.
-snippet: Corporate-compliance level professionalism with 22+ years experience and £10m insurance.
 ---
-
 Looking for a DJ who meets corporate compliance requirements? My sister company Mega Inflatables has supplied entertainment for **Cineworld**, **ITV**, **Chiquito**, **Aberdeen Asset Management**, plus schools, councils, and charities across the UK.
 
 With 22 years of professional experience - including my current role as a **Radio Essex presenter** and **Resident DJ at Chelmsford City Racecourse** - I bring the level of professionalism that major organisations expect. From subtle background music to energetic party sets, I deliver tailored entertainment solutions for businesses of all sizes.
@@ -74,7 +75,7 @@ I offer transparent pricing with no hidden costs. Corporate packages include:
 - Wireless microphone for announcements
 - Early setup and late finish options
 - Pre-event consultation and planning
-- **£10 million public liability insurance**
+- **£5 million public liability insurance**
 - PAT-tested equipment
 - Full risk assessment documentation available
 
