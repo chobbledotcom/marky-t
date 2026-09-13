@@ -17,6 +17,8 @@ That’s right in my wheelhouse.
 
 Why Book Me for Your Birthday?
 Proper Experience. Not a Side Gig.
+Lucky enough to host main stages, festivals and converts across Essex! 
+Not all DJs can claim that! 
 
 I’ve DJ’d hundreds of birthday celebrations — from stylish private dinners to full-on milestone blowouts.
 
@@ -50,7 +52,7 @@ What’s Included
 ✔ Wireless mic for speeches & announcements
 ✔ Early setup before guests arrive
 ✔ Full backup equipment (peace of mind always)
-✔ £10 million public liability insurance & PAT-tested kit
+✔ £5 million public liability insurance & PAT-tested kit
 ✔ Seamless live mixing all night
 
 
