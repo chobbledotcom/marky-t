@@ -1,6 +1,6 @@
 ---
 heading_text: Wedding DJ Services
-heading_image: /assets/photos/mark-wedding.jpg
+heading_image: /assets/photos/mark-suit-2.jpg
 link_order: 2
 link_title: Weddings
 meta_description: Essex Wedding Award Finalist 2020 for Wedding DJ of the Year.
