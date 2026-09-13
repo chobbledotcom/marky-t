@@ -63,11 +63,11 @@ You might recognise my voice from **Radio Essex**, where I present weekday shows
 
 This isn't a side hustle - it's been my full-time profession since 2002. Here's what that means for your event:
 
-- **Essex Wedding Award Finalist 2020** - Industry-recognised, not self-proclaimed
+- **Essex Wedding Award Finalist** - Industry-recognised, not self-proclaimed
 - **Radio Essex Presenter** - Microphone confidence and crowd engagement at the highest level
-- **Capital FM 'Radio Stars' Finalist** - Came second in a national competition
+- **Capital FM 'Radio Stars' Finalist** - Was on Capital FM with Schooly back in 2003.
 - **Chelmsford City Racecourse Resident** - Trusted by one of Essex's most prestigious venues
-- **Nightclub Pedigree** - Trained at Sugar Hut, Talk, Dukes, Eclipse, and more of Essex's most demanding rooms
+- **Nightclub Pedigree** - I have been lucky enough to been a DJ at the best nightlcubs in Essex. Trained at Sugar Hut, Talk, Dukes, Eclipse, and more of Essex's most demanding rooms!
 
 ![Photo of a wedding disco in full swing](/assets/photos/hollie-683.jpg)
 
@@ -93,7 +93,7 @@ This isn't a side hustle - it's been my full-time profession since 2002. Here's 
 
 Planning a wedding, milestone birthday, or corporate event? Let's talk.
 
-I carry **£10 million public liability insurance** and all equipment is PAT tested - because this is my profession, not a hobby. Based in Essex, I cover London, Kent, Hertfordshire, and nationwide for larger events.
+I carry **£5 million public liability insurance** and all equipment is PAT tested - because this is my profession, not a hobby. Based in Essex, I cover London, Kent, Hertfordshire, and nationwide for larger events.
 
 **[Contact me now](/contact/) for a complimentary meet and greet to discuss your entertainment needs!**
 
